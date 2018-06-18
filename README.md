@@ -23,7 +23,12 @@ Just bring your laptop running Windows with Visual Studio 2017. You will need an
 - Wireless NIC
 - Headphones (with a mini jack)
 
-*(A remote desktop in Azure will not work as you need to access the local network)*
+### Bring
+ - An Azure Subscription. [You can create on here](https://azure.microsoft.com/en-us/free/).
+ - Some C# Knowledge *(it is not a copy / paste workshop)*
+
+### Note:
+ - A remote desktop in Azure will not work as you need to access the local network
 
 ## Limited space
 We have 25 hardware kits that can be used during the training. If you have your own raspberry PI 3 and a USB camera please bring them with you. 
