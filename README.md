@@ -34,4 +34,3 @@ Azure development)
 ## Limited space
 We have 25 hardware kits that can be used during the training. If you have your own raspberry PI 3 and a USB camera please bring them with you. 
 
-*Hardware kits can be bought after the conference*
