@@ -21,6 +21,11 @@ Just bring your laptop running Windows with Visual Studio 2017. You will need an
 - Windows 10 (with Administrator access)
 - Visual Studio 2017 with workload: Universal Windows Platform development
 - Wireless NIC
-- Head phones (with a mini jack)
+- Headphones (with a mini jack)
 
 *(A remote desktop in Azure will not work as you need to access the local network)*
+
+## Limited space
+We have 25 hardware kits that can be used during the training. If you have your own raspberry PI 3 and a USB camera please bring them with you. 
+
+*Hardware kits can be bought after the conference
