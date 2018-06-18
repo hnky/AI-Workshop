@@ -8,7 +8,7 @@ You are going to make a chatbot, not a boring one in a browser that can order ai
 ## What should you expect
 We are going to build a real bot powered by Microsoft Cognitive Services. The bot will run on a Raspberry PI powered by Windows IoT. Your bot will be able to see, hear and talk back to you.   
 
-Topics covered in this workshop:
+**Topics covered in this workshop:**
 - Windows IoT
 - Raspberry PI and some sensors
 - Cognitive Services (Like: Face API / Speech API / and more…)
@@ -29,7 +29,7 @@ Azure development)
  - Some C# Knowledge *(it is not a copy / paste workshop)*
 
 ### Note:
- - A remote desktop in Azure will not work as you need to access the local network
+ - A remote desktop in Azure will **not work** as you need to access the local network
 
 ## Limited space
 We have 25 hardware kits that can be used during the training. If you have your own raspberry PI 3 and a USB camera please bring them with you. 
