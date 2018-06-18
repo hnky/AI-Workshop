@@ -22,4 +22,5 @@ Just bring your laptop running Windows with Visual Studio 2017. You will need an
 - Visual Studio 2017 with workload: Universal Windows Platform development
 - Wireless NIC
 - Head phones (with a mini jack)
-(A remote desktop in Azure will not work as you need to access the local network)
+
+*(A remote desktop in Azure will not work as you need to access the local network)*
