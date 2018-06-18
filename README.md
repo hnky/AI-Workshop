@@ -19,7 +19,8 @@ Just bring your laptop running Windows with Visual Studio 2017. You will need an
 
 ### Bring a laptop running:
 - Windows 10 (with Administrator access)
-- Visual Studio 2017 with workload: Universal Windows Platform development
+- Visual Studio 2017 (with workloads: Universal Windows Platform development / 
+Azure development)
 - Wireless NIC
 - Headphones (with a mini jack)
 
