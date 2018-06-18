@@ -8,3 +8,4 @@
 - [Pi-Dish voor Raspberry Pi Inclusief Breadbord](https://www.sossolutions.nl/adafruit-pi-dish-voor-raspberry-pi)
 - [Diffused RGB (tri-color) 10mm LED](http://www.adafruit.com/products/848)
 - [Tactile Button switch (6mm)](http://www.adafruit.com/products/367)
+- USB Camera with Microphone
