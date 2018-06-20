@@ -18,9 +18,10 @@ We are going to build a real bot powered by Microsoft Cognitive Services. The bo
 Just bring your laptop running Windows with Visual Studio 2017. You will need an Azure subscription to activate the Cognitive Services APIs, if you don’t have one please create one before the workshop. If you have your own Raspberry and USB camera, please bring them, if not you can borrow one from us.
 
 ### Bring a laptop running:
-- Windows 10 (with Administrator access)
-- Visual Studio 2017 (with workloads: Universal Windows Platform development / 
+- Windows 10 Version	10.0.17134 Build 17134 (with Administrator access)
+- Visual Studio 2017  (with workloads: Universal Windows Platform development / 
 Azure development)
+- Latest UWP SDK [Install](https://developer.microsoft.com/nl-nl/windows/downloads/windows-10-sdk)
 - Wireless NIC
 - Headphones (with a mini jack)
 
