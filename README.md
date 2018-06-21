@@ -19,8 +19,7 @@ Just bring your laptop running Windows with Visual Studio 2017. You will need an
 
 ### Bring a laptop running:
 - Windows 10 - Version	10.0.17134 Build 17134 (with Administrator access)
-- Visual Studio 2017 -  (version 15.7 – Preview 1) (with workloads: Universal Windows Platform development / 
-Azure development)
+- Visual Studio 2017 -  (version 15.7.4) (with workloads: Universal Windows Platform development / Azure development)
 - Latest UWP SDK [Install](https://developer.microsoft.com/nl-nl/windows/downloads/windows-10-sdk)
 - Wireless NIC
 - Headphones (with a mini jack)
