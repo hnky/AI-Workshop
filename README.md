@@ -31,7 +31,7 @@ Just bring your laptop running Windows with Visual Studio 2017. You will need an
  - Open: settings
  - Open: Update & Security
  - Open: For Developers
- - Select "Developer Mode" under "Use developer features"
+ - Select: "Developer Mode" under "Use developer features"
  - [View screenshot](assets/img_0001.jpg)
 
 ### Note:
