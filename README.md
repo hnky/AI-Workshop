@@ -11,10 +11,9 @@ You are going to make a chatbot, not a boring one in a browser that can order ai
 We are going to build a real bot powered by Microsoft Cognitive Services. The bot will run on a Raspberry PI powered by Windows IoT. Your bot will be able to see, hear and talk back to you.   
 
 **Topics covered in this workshop:**
-- Windows IoT
+- Windows IoT Core
 - Raspberry PI and some sensors
-- Cognitive Services (Like: Face API / Custom Vision / and more…)
-- Language Understanding Intelligent Service
+- Cognitive Services (Like: Face API / Custom Vision / Language Understanding)
 
 ## What to bring:
 Just bring your laptop running Windows with Visual Studio 2017. You will need an Azure subscription to activate the Cognitive Services APIs, if you don’t have one please create one before the workshop. If you have your own Raspberry and USB camera, please bring them, if not you can borrow one from us.
@@ -23,6 +22,7 @@ Just bring your laptop running Windows with Visual Studio 2017. You will need an
 - Windows 10 - Version	10.0.17134 Build 17134 (with Administrator access)
 - Visual Studio 2017 -  (version 15.7.4) (with workloads: Universal Windows Platform development / Azure development)
 - Latest UWP SDK (1803) [Installer](https://developer.microsoft.com/nl-nl/windows/downloads/windows-10-sdk)
+- Intall the Windows IOT Core Dashboard [Download](http://go.microsoft.com/fwlink/?LinkID=708576)
 
 ### Bring
  - An Azure Subscription. [You can create on here](https://azure.microsoft.com/en-us/free/).
