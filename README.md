@@ -36,7 +36,8 @@ Just bring your laptop running Windows with Visual Studio 2017. You will need an
 
 ### Note:
  - A remote desktop in Azure will **not work** as you need to access the local network
+ - Most of the things will work on the MAC running Windows 10 in like a Virtual Box 
 
 ## Limited space
-We have 25 hardware kits that can be used during the training. If you have your own raspberry PI 3 and a USB camera please bring them with you. 
+We have 20 hardware kits that can be used during the training, ofcourse you can share and work together.
 
