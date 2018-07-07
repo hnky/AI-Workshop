@@ -5,6 +5,8 @@ In this workshop, we give you a quick start in this new world and introduce you 
 
 You are going to make a chatbot, not a boring one in a browser that can order airplane tickets for you, but a real robot that can talk to you and uses its vision and voice to interact with its surroundings.
 
+[Workshop pictures](https://www.flickr.com/photos/hnky/albums/72157697118027531)
+
 ## What should you expect
 We are going to build a real bot powered by Microsoft Cognitive Services. The bot will run on a Raspberry PI powered by Windows IoT. Your bot will be able to see, hear and talk back to you.   
 
