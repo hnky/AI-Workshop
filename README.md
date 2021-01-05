@@ -21,11 +21,11 @@ Just bring your laptop running Windows with Visual Studio 2017. You will need an
 ### Bring a laptop running:
 - Windows 10 - Version	10.0.17134 Build 17134 (with Administrator access)
 - Visual Studio 2017 -  (version 15.7.4) (with workloads: Universal Windows Platform development / Azure development)
-- Latest UWP SDK (1803) [Installer](https://developer.microsoft.com/nl-nl/windows/downloads/windows-10-sdk)
-- Intall the Windows IOT Core Dashboard [Download](http://go.microsoft.com/fwlink/?LinkID=708576)
+- Latest UWP SDK (1803) [Installer](https://developer.microsoft.com/windows/downloads/windows-10-sdk?WT.mc_id=aiml-0000-heboelma)
+- Intall the Windows IOT Core Dashboard [Download](https://go.microsoft.com/fwlink/?LinkID=708576&WT.mc_id=aiml-0000-heboelma)
 
 ### Bring
- - An Azure Subscription. [You can create on here](https://azure.microsoft.com/en-us/free/).
+ - An Azure Subscription. [You can create on here](https://azure.microsoft.com/free/?WT.mc_id=aiml-0000-heboelma).
  - Some C# Knowledge *(it is not a copy / paste workshop)*
  - Headphones (with a mini jack)
  
